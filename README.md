@@ -4,8 +4,7 @@ Project Euler Solutions – extracted from anargh repository for learning and pr
 # Project Euler Solutions
 
 This repository contains my extracted copy of the **Project Euler** problem solutions for learning and practice.  
-The original solutions were created by **Nayuki** and are available here:  
-https://github.com/nayuki/Project-Euler-solutions
+path:"C:\Users\anarg\Downloads\Project-Euler-solutions-master\Project-Euler-solutions-master\python\.vscode\euler.java"
 
 I am uploading this repository for:
 - Personal study
@@ -34,6 +33,5 @@ All author credits and source links are preserved.
 This repository is for educational use only.  
 Please refer to the original repo for updates, discussions, or issues.
 
-Original repository link:  
-https://github.com/nayuki/Project-Euler-solutions
+
 
